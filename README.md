@@ -64,8 +64,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# test-task
-Job task
 
 # Тестовое задание для программиста PHP
 Цель задания: Создать веб-приложение с использованием фреймворка Laravel, которое включает управление товарами и заказами. 
@@ -119,4 +117,3 @@ ID (первичный ключ)
 
 Обеспечьте возможность управления товарами и заказами через веб-интерфейс.
 Используйте валидацию данных при создании/редактировании.
-
